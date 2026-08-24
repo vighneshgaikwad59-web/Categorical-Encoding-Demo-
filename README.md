@@ -40,12 +40,6 @@ categorical-encoding-demo/
 └── README.md
 ```
 
-## How to run
-
-```bash
-pip install -r requirements.txt
-python encode_demo.py
-```
 
 ## Sample output
 
