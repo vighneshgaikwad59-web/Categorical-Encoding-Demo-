@@ -17,3 +17,4 @@ print(df_label.head())
 df_encoded = pd.get_dummies(df, columns=['Gender'])
 print("\n onehot encode data")
 print(df_encoded.head())
+
