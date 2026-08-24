@@ -63,5 +63,3 @@ Passed mapping: {'No': 0, 'Yes': 1}
 | Tree-based models (Random Forest, XGBoost) | Label Encoding often works fine |
 | Linear models / Neural Nets, no ordinal columns | One-Hot Encoding preferred |
 
----
-Built as part of Python/ML self-study — data preprocessing basics.
