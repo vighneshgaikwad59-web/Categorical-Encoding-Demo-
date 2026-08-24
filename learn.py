@@ -13,7 +13,6 @@ print("\n label encode data")
 print(df_label[['Name','Gender','Gender_Encoded','Passed','Passed_Encoded']])
 print(df_label.head())
 
-# columns to be one-hot encoded 0/1 bana sakta hai  
 
 df_encoded = pd.get_dummies(df, columns=['Gender'])
 print("\n onehot encode data")
